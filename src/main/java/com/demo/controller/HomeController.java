@@ -21,7 +21,7 @@ public class HomeController {
     public  String index(){
         //输出日志文件
         logger.info("the first jsp pages");
-        //返回一个index.jsp这个视图
+        //返回一个hello.jsp这个视图
         return "hello";
     }
 }
