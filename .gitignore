@@ -1,0 +1,6 @@
+*.jar
+*.class
+/target/
+/.idea/artifacts
+/.idea/libraries
+/log
